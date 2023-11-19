@@ -1,0 +1,3 @@
+﻿  лаба 4(3).c
+C:\Users\Vova\Desktop\лаба\лаба 4(3)\лаба 4(3).c(44,19): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лаба 4(3).vcxproj -> C:\Users\Vova\Desktop\лаба\лаба 4(3)\x64\Debug\лаба 4(3).exe
